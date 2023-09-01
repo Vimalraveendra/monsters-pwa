@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/monster-pwa/static/css/main.ea8220ff.css",
-    "main.js": "/monster-pwa/static/js/main.43768019.js",
-    "static/js/787.f49a965f.chunk.js": "/monster-pwa/static/js/787.f49a965f.chunk.js",
-    "service-worker.js": "/monster-pwa/service-worker.js",
-    "index.html": "/monster-pwa/index.html",
-    "main.ea8220ff.css.map": "/monster-pwa/static/css/main.ea8220ff.css.map",
-    "main.43768019.js.map": "/monster-pwa/static/js/main.43768019.js.map",
-    "787.f49a965f.chunk.js.map": "/monster-pwa/static/js/787.f49a965f.chunk.js.map"
+    "main.css": "/monsters-pwa/static/css/main.ea8220ff.css",
+    "main.js": "/monsters-pwa/static/js/main.21bbc2fb.js",
+    "static/js/787.f49a965f.chunk.js": "/monsters-pwa/static/js/787.f49a965f.chunk.js",
+    "service-worker.js": "/monsters-pwa/service-worker.js",
+    "index.html": "/monsters-pwa/index.html",
+    "main.ea8220ff.css.map": "/monsters-pwa/static/css/main.ea8220ff.css.map",
+    "main.21bbc2fb.js.map": "/monsters-pwa/static/js/main.21bbc2fb.js.map",
+    "787.f49a965f.chunk.js.map": "/monsters-pwa/static/js/787.f49a965f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea8220ff.css",
-    "static/js/main.43768019.js"
+    "static/js/main.21bbc2fb.js"
   ]
 }
